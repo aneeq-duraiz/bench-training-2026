@@ -1,0 +1,1 @@
+- **What's the difference between a list and a dict? When do you use each?** A list keeps things in order and I access items by their position, so I use it when I have a sequence to loop through. A dict maps a key to a value, so I use it when each item has a name or label and I want to look it up directly instead of scanning through indexes.
