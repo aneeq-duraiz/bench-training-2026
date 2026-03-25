@@ -1,0 +1,3 @@
+- **What did you build?** I built three Python scripts: one to practice variables and basic operators, one that uses a function to assign letter grades inside a loop, and one that prints a multiplication table after validating user input.
+- **What tripped you up?** I kept forgetting to convert the input from a string to an integer, which caused a crash the first few times I ran it. I also struggled a bit with getting the table columns to line up neatly.
+- **What would you do differently?** I would test each small piece of logic on its own before putting it all together.
